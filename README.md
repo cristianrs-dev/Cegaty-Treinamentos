@@ -1,6 +1,3 @@
-Aqui vai uma sugestão clara e profissional para o `README.md` do repositório do site da **CEGATY Treinamentos**:
-
----
 
 # CEGATY Treinamentos – Site Institucional
 
@@ -38,6 +35,3 @@ O layout é totalmente responsivo, compatível com smartphones, tablets e deskto
 
 Dúvidas ou sugestões? Fale conosco pelo WhatsApp ou pelo formulário no site.
 
----
-
-Se quiser, posso gerar esse `README.md` pronto para copiar e colar ou criar automaticamente no seu repositório do GitHub. Deseja isso?
