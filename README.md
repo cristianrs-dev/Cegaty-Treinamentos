@@ -3,6 +3,8 @@
 
 Este projeto é o site oficial da **CEGATY Treinamentos**, uma empresa fundada por quatro professores especializados em informática. Nosso objetivo é oferecer cursos de alta qualidade voltados ao mercado de trabalho.
 
+https://cristianrs-dev.github.io/Cegaty-Treinamentos/
+
 ## 🖥️ Tecnologias Utilizadas
 
 * HTML5
