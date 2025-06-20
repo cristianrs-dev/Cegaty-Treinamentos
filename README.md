@@ -3,7 +3,7 @@
 
 Este projeto é o site oficial da **NextCode Treinamentos**, uma empresa fundada por quatro professores especializados em informática. Nosso objetivo é oferecer cursos de alta qualidade voltados ao mercado de trabalho.
 
-https://cristianrs-dev.github.io/Cegaty-Treinamentos/
+https://cristianrs-dev.github.io/NexCode-Treinamentos/
 
 ## 🖥️ Tecnologias Utilizadas
 
@@ -25,7 +25,7 @@ https://cristianrs-dev.github.io/Cegaty-Treinamentos/
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/cegaty-site.git
+   git clone https://cristianrs-dev.github.io/NexCode-Treinamentos/
    ```
 2. Abra o arquivo `index.html` no navegador.
 
