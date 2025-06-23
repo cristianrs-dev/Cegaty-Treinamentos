@@ -25,7 +25,7 @@ https://cristianrs-dev.github.io/NextCode_Treinamentos/
 1. Clone o repositório:
 
    ```bash
-   git clone https://cristianrs-dev.github.io/NexCode-Treinamentos/
+   git clone https://cristianrs-dev.github.io/NextCode_Treinamentos/
    ```
 2. Abra o arquivo `index.html` no navegador.
 
